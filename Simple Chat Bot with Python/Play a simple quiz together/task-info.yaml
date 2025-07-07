@@ -14,4 +14,8 @@ files:
     learner_created: false
 feedback_link: https://hyperskill.org/learn/step/8803#comment
 status: Unchecked
+feedback:
+  message: "No tests have run. For more information, see <a href=\"https://plugins.jetbrains.com/plugin/10081-jetbrains-academy/docs/troubleshooting-guide.html#no_tests_have_run\"\
+    >the Troubleshooting guide</a>"
+  time: "Mon, 07 Jul 2025 07:18:38 UTC"
 record: -1
